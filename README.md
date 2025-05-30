@@ -1,7 +1,4 @@
 # -SmartSentiment
-Here's a polished and visually engaging version of your **SmartSentiment** project description — perfect for portfolios, GitHub READMEs, or presentations:
-
----
 
 # 🌟 **SmartSentiment** — AI-Powered Desktop Experience
 
